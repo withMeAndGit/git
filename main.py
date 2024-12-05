@@ -1,1 +1,3 @@
-print('Hello, World')
+""" info? """
+
+print(('Hello', 'World'), sep=', ')
